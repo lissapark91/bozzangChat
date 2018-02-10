@@ -1,2 +1,2 @@
 # bozzangChat
-java tcp/ip chatting program
+javafx tcp/ip chatting program
